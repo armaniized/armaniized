@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @armaniized
-- 👀 I’m interested in python
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me www.armaniized.pythonanywhere.com
+- 👋 Hi, I’m arman
+-  I’m interested in Flutter
+-  I’m currently learning machine learning too
+-  I’m looking to collaborate on Flutter Apps
+-  How to reach me arman.hafezipour@gmail.com
 
 <!---
 armaniized/armaniized is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
